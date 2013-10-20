@@ -1,4 +1,11 @@
-xjp
-===
+# Notatki z wykładu
 
-Przykłady z wykładu JP.
+Repozytoria prywatne. Wejść na stronę: [GitHub EDU](https://github.com/edu).
+
+...
+
+```c
+main() {
+  printf("hello world\n");
+}
+```
