@@ -10,4 +10,4 @@ main() {
 }
 ```
 
-Więcej więcej…
+Piękne!
